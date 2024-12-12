@@ -16,4 +16,4 @@ const foo = async () => {
     });
 };
 
-foo();
+void foo();
